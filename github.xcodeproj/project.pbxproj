@@ -22,6 +22,7 @@
 		246515EB288E7CBE0097D6E0 /* github.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = github.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		246515F1288E7CBF0097D6E0 /* github.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = github.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		246515F3288E7CBF0097D6E0 /* macOS.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = macOS.entitlements; sourceTree = "<group>"; };
+		24651602288E7CE80097D6E0 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -45,6 +46,7 @@
 		246515DE288E7CBD0097D6E0 = {
 			isa = PBXGroup;
 			children = (
+				24651602288E7CE80097D6E0 /* README.md */,
 				246515E3288E7CBD0097D6E0 /* Shared */,
 				246515F2288E7CBF0097D6E0 /* macOS */,
 				246515EC288E7CBE0097D6E0 /* Products */,
