@@ -1,4 +1,4 @@
-# Github App Clone using Swift UI
+# Github App using Swift UI
 
 30 days of building github app using swift ui is the challenge to explore more regarding swift and github API. 
 
